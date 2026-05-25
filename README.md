@@ -148,12 +148,31 @@ while True:
 - Client sends HTTP GET request.
 - Server returns the content of `index.html`.
 - Webpage content is displayed on the client terminal.
+  
+##### server
+
+<img width="955" height="187" alt="image" src="https://github.com/user-attachments/assets/8aa66bde-8f6c-49f1-a1c8-951f3ec9ece1" />
+
+##### client
+
+<img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/6387108a-0a45-4d32-a0bb-4b69ddc92e74" />
+
+---
 
 ### Upload Operation
 
 - Client sends HTTP POST request with text data.
 - Server stores the data in `upload.txt`.
 - Success message is displayed.
+
+##### server
+
+<img width="471" height="269" alt="image" src="https://github.com/user-attachments/assets/8f09d509-0693-4cb4-a3c2-5f193e29fed6" />
+
+
+##### client
+
+<img width="1030" height="288" alt="image" src="https://github.com/user-attachments/assets/f74745ae-9367-4d38-b011-bf9ea70e9b6e" />
 
 ---
 
